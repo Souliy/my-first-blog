@@ -55,17 +55,17 @@ h4 {
 
 .post > .date,
 .post > .actions {
-    float: center;
+    float: right;
 }
 
 .btn-default,
 .btn-default:visited {
-    color: #C25100;
+    color: #b18321da;
     background: none;
-    border-color: #C25100;
+    border-color: #b18321da;
 }
 
 .btn-default:hover {
     color: #FFFFFF;
-    background-color: #C25100;
+    background-color: #b18321da;
 }
